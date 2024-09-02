@@ -1,0 +1,5 @@
+1. pandas: Est une bibliothèque Python très populaire utilisée principalement pour la manipulation et l'analyse des données. 
+
+2. matplotlib.pyplot: Est une composante de Matplotlib, permet de créer une variété de graphiques de base tels que des lignes, des histogrammes, et des camemberts. Elle offre une personnalisation détaillée des éléments du graphique comme les titres, les labels, et les couleurs, et s'intègre bien avec d'autres bibliothèques scientifiques comme NumPy et Pandas. De plus, elle permet de créer des figures avec plusieurs sous-graphiques, ce qui est utile pour des analyses comparatives.
+
+3. seaborn: Est une Bibliothèque construite sur Matplotlib et vise à simplifier la création de graphiques statistiques attrayants et informatifs. Elle fonctionne de manière fluide avec les DataFrames de Pandas, facilitant ainsi la visualisation des données tabulaires. Seaborn propose des thèmes prédéfinis et des palettes de couleurs pour rendre les graphiques visuellement plaisants par défaut. En outre, elle excelle dans la création de visualisations statistiques complexes comme les heatmaps, les diagrammes de densité, et les graphiques de régression.
